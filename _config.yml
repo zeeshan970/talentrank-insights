@@ -1,0 +1,12 @@
+title: TalentRank Insights
+description: Practical, research-based notes on personality, cognitive ability and career fit from the TalentRank team.
+author: TalentRank
+url: "https://zeeshan970.github.io"
+baseurl: "/talentrank-insights"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  social_links:
+    - { platform: x, user_url: "https://www.talentrank.io/" }
